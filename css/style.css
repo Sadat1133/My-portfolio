@@ -1150,6 +1150,7 @@ a:focus {
 }
 
 .team .team-img {
+    height:250px;
     position: relative;
     width: 50%;
     overflow: hidden;
