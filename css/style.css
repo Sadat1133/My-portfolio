@@ -693,7 +693,7 @@ a:focus {
     background: #ffffff;
     position: relative;
     border-right: 5px solid #dddddd;
-    box-shadow: 0 0 60px rgba(0, 0, 0, .08);
+    box-shadow: inset -1px 1px 20px rgb(185 30 190 / 70%);
 }
 
 .experience .timeline .timeline-item.right .timeline-text {
